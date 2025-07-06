@@ -35,7 +35,7 @@ Ingressar em uma equipe que promova o desenvolvimento e a aplicação de prátic
 
 Se você está buscando um profissional dedicado, resiliente e apaixonado por otimização e automação, estou pronto para crescer com sua equipe. Vamos juntos construir infraestruturas mais robustas e eficientes.
 
-🔗 Conecte-se comigo no LinkedIn
+🔗 Conecte-se comigo no [LinkedIn] (https://www.linkedin.com/in/prmarcosluciano/) 
 
 📧 E-mail: prmarcosluciano@hotmail.com
 
