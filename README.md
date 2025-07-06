@@ -1,43 +1,53 @@
-# 💻 Sobre Mim – Profissional em Transição para Segurança Cibernética
+💻 Sobre Mim – Profissional em Transição para Analista de Cloud/DevOps
 
-Olá! Sou um profissional de Tecnologia da Informação com mais de 10 anos de experiência em suporte técnico, infraestrutura e administração de sistemas. Após uma trajetória sólida ajudando empresas a manterem seus ambientes de TI seguros, estáveis e eficientes, decidi direcionar minha carreira para a área que mais me instiga: **Segurança Cibernética**.
+Olá! Sou um profissional de Tecnologia da Informação com mais de 10 anos de experiência em suporte técnico, infraestrutura e administração de sistemas. Minha trajetória me proporcionou uma base sólida em resolução de problemas, otimização de ambientes e manutenção de sistemas. Agora, estou direcionando minha carreira para a área que me fascina e onde vejo o futuro da TI: Cloud e DevOps.
 
-## 🌐 Meu Objetivo Profissional
+🌐 Meu Objetivo Profissional
 
-Minha missão é **proteger dados, sistemas e pessoas** em um mundo cada vez mais digital. Estou comprometido com o aprendizado contínuo e com a aplicação ética do conhecimento em segurança da informação para **prevenir, detectar e mitigar ameaças cibernéticas**.
+Minha missão é otimizar infraestruturas, automatizar processos e implementar pipelines CI/CD para construir e manter sistemas escaláveis, resilientes e eficientes. Estou comprometido com o aprendizado contínuo e com a aplicação prática das melhores metodologias e ferramentas em ambientes de nuvem.
 
-Estou animado para contribuir com organizações que valorizam integridade, proatividade e inovação. Busco **oportunidades como Analista de Segurança Júnior, Especialista em SOC, Analista de Resposta a Incidentes ou Auditor de Segurança**, onde eu possa aprender com profissionais experientes e, ao mesmo tempo, agregar com minha bagagem técnica, disciplina e foco em resultados.
+Busco oportunidades como Analista de Cloud, Analista de DevOps, Engenheiro de Infraestrutura ou Especialista em Automação, onde eu possa aplicar minha bagagem técnica e minha paixão por tecnologia. Estou animado para contribuir com organizações que valorizam a inovação, a colaboração e a busca constante por eficiência operacional.
 
-## 🔒 Meus Valores e Pontos Fortes
+🔒 Meus Valores e Pontos Fortes
 
-- **Integridade**: Acredito que segurança começa com ética. Comprometo-me a agir com responsabilidade em todas as atividades profissionais.
-- **Curiosidade Técnica**: Amo investigar, aprender novas ferramentas e entender como sistemas funcionam (e como podem ser explorados).
-- **Foco em Resolução de Problemas**: Com anos de experiência em suporte e infraestrutura, desenvolvi forte capacidade de análise, documentação e resposta rápida.
-- **Trabalho em Equipe e Comunicação**: Tenho facilidade em colaborar com equipes multidisciplinares, traduzindo riscos técnicos em linguagem clara para áreas de negócio.
+    Curiosidade Técnica: Adoro investigar novas tecnologias, entender como sistemas complexos funcionam e explorar maneiras de aprimorá-los.
 
-## 🛡️ Como Posso Apoiar a Segurança da Sua Organização
+    Foco em Resolução de Problemas: Com anos de experiência em suporte e infraestrutura, desenvolvi forte capacidade de análise, diagnóstico e implementação de soluções eficazes.
 
-- Fortalecendo políticas de segurança e conscientização de usuários.
-- Monitorando eventos de segurança com ferramentas SIEM.
-- Realizando análises de vulnerabilidades e sugerindo medidas corretivas.
-- Automatizando processos para reforçar a detecção e resposta a incidentes.
-- Garantindo conformidade com normas como LGPD, ISO 27001 e boas práticas de segurança.
+    Pensamento Sistêmico: Tenho habilidade em visualizar a arquitetura completa de um sistema, identificando gargalos e oportunidades de otimização desde a infraestrutura ao código.
 
-## 🚀 Próximas Metas
+    Colaboração e Comunicação: Tenho facilidade em trabalhar em equipe, comunicando ideias técnicas de forma clara e objetiva para alcançar objetivos comuns.
 
-- Obter certificações como **CompTIA Security+**, **Microsoft SC-900** e **Cybersecurity Analyst (CySA+)**.
-- Contribuir para projetos de segurança open source e laboratórios hands-on (Hack The Box, TryHackMe).
-- Ingressar em uma equipe de segurança para aplicar meus conhecimentos na prática.
-- Desenvolver um programa de conscientização em segurança digital para pequenas empresas.
+🛡️ Como Posso Apoiar a Sua Organização
 
-## 📫 Vamos Conversar?
+Minhas habilidades e meu entusiasmo me permitem contribuir de diversas formas para o sucesso da sua equipe, como:
 
-Se você está buscando um profissional **dedicado, resiliente e apaixonado por segurança da informação**, estou pronto para crescer com sua equipe. Vamos juntos construir um ambiente digital mais seguro.
+    Auxiliando na migração e gestão de recursos em ambientes de nuvem (AWS, Azure, GCP).
 
-🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/prmarcosluciano/)  
-📧 E-mail: prmarcosluciano@hotmail.com  
+    Automatizando tarefas e provisionamento de infraestrutura utilizando ferramentas como Terraform e Ansible.
+
+    Implementando e otimizando pipelines de CI/CD para entregas mais rápidas e seguras.
+
+    Trabalhando com contêineres e orquestração (Docker, Kubernetes) para garantir escalabilidade e portabilidade.
+
+    Monitorando performance e garantindo a resiliência de sistemas em produção.
+
+🚀 Próximas Metas
+
+    Obter certificações como AWS Certified Cloud Practitioner e Microsoft Azure Fundamentals (AZ-900).
+
+    Aprofundar conhecimentos em Terraform, Ansible e Kubernetes através de projetos práticos.
+
+    Contribuir para projetos open source e laboratórios hands-on focados em Cloud e DevOps.
+
+    Ingressar em uma equipe que promova o desenvolvimento e a aplicação de práticas DevOps.
+
+📫 Vamos Conversar?
+
+Se você está buscando um profissional dedicado, resiliente e apaixonado por otimização e automação, estou pronto para crescer com sua equipe. Vamos juntos construir infraestruturas mais robustas e eficientes.
+
+🔗 Conecte-se comigo no LinkedIn
+📧 E-mail: prmarcosluciano@hotmail.com
 📁 Veja meus projetos aqui no GitHub!
 
----
-
-*Este portfólio está em constante evolução conforme avanço nos meus estudos e experiências práticas em segurança cibernética. Obrigado por visitar!*
+Este portfólio está em constante evolução conforme avanço nos meus estudos e experiências práticas em Cloud e DevOps. Obrigado por visitar!
